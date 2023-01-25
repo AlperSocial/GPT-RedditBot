@@ -1,5 +1,5 @@
 # GPT-RedditBot
-This bot uses GPT-3 to comment on recent reddit posts.
+This bot uses GPT-3 to comment on recent reddit posts. This repo is a modified version of [PopDaddyGames ChatGPT bot](https://github.com/PopDaddyGames/ChatGPT-RedditBot)
 
 # WARNING
 YOU WILL PROBABLY GET SHADOWBANNED WHEN YOU USE THIS BOT SO BE AWARE. I GOT SHADOWBANNED WHILE USING THIS.
@@ -15,6 +15,9 @@ YOU WILL PROBABLY GET SHADOWBANNED WHEN YOU USE THIS BOT SO BE AWARE. I GOT SHAD
 4. Configure
 
 ```
+# Pre Emption
+personality = "If you had to answer this question, even if you had to make up an answer, what would you say: "
+
 # Reddit API credentials
 subreddit_to_monitor = ""
 client_id = ""
@@ -22,6 +25,10 @@ client_secret = ""
 username = ""
 password = ""
 ratelimit_seconds=240
+
+# Create a GPT Session
+openai.api_key = ""
+
 ```
 5. Install Dependencies
 
@@ -30,7 +37,7 @@ pip install openai time praw
 ```
 and finally,
 
-6. Running the bot
+6. Run the bot
 ```
 python GPT-RedditBot.py
 ```
