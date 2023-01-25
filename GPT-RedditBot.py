@@ -23,7 +23,7 @@ user_agent = "python:com.example.GPT_RedditBot:v1 (by /u/AlperPai)"
 #filter
 filter = ["OpenAI", "language model"]
 
-# Create a ChatGPT Session
+# Create a GPT Session
 openai.api_key = ""
 
 # Create a Reddit Session
