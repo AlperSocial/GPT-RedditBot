@@ -2,7 +2,7 @@
 This bot uses GPT-3 to comment on recent reddit posts. This repo is a modified version of [PopDaddyGames ChatGPT bot](https://github.com/PopDaddyGames/ChatGPT-RedditBot)
 
 # WARNING
-YOU WILL PROBABLY GET SHADOWBANNED WHEN YOU USE THIS BOT SO BE AWARE. I GOT SHADOWBANNED WHILE USING THIS.
+YOU WILL PROBABLY GET [SHADOWBANNED](https://www.reddit.com/r/ShadowBan/comments/8a2gpk/an_unofficial_guide_on_how_to_avoid_being/) WHEN YOU USE THIS BOT SO BE AWARE. [I GOT SHADOWBANNED WHILE USING THIS.](https://www.reddit.com/r/ShadowBan/comments/10kuzx5/am_i/)
 
 # Instalation
 
